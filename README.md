@@ -27,7 +27,7 @@ dir = to getall the directories wihtin that particular folder linus pe shyad ls 
 
 | Command | Description |
 | ------- | ----------- |
-| `git status` | Check status |
+| `git status` | Check status  of the no of commits and all|
 | `git add [file-name.txt]` | Add a file to the staging area |
 | `git add -A` | Add all new and changed files to the staging area |
 | `git commit -m "[commit message]"` | Commit changes |
